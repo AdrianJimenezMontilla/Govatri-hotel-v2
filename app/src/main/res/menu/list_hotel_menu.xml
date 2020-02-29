@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/Newhotel"
+        android:title="@string/list_hotel_crear"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/listhotelExit"
+        android:title="@string/list_hotel_exit"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/iniciar"
+        app:showAsAction="always"
+        android:title="On"
+        android:icon="@drawable/speaker"
+        />
+    <item
+        android:id="@+id/detener"
+        app:showAsAction="always"
+        android:title="Off"
+        android:icon="@drawable/mute"
+        />
+
+</menu>
