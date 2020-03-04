@@ -14,7 +14,7 @@ Aqui los documentos de la realtimeDatabase
 Al arrancar la aplicacion, nos encontraremos con esta pantalla de login.
 
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura1.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a1.png)
 
 Registraremos nuestro usuario en registro
 
