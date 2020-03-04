@@ -18,9 +18,8 @@ Al arrancar la aplicacion, nos encontraremos con esta pantalla de login.
 
 Registraremos nuestro usuario en registro
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura2.png)
+![Aquí la descripción de la imagen por si no carga](https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a2.png)
 
-En este caso hemos creado el usuario alohaiano@gmail.com, loguearemos con el.
 
 ![Aquí la descripción de la imagen por si no carga](
 https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura3.png)
