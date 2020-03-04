@@ -161,7 +161,10 @@ public class MainActivity extends AppCompatActivity {
                 intent = new Intent(this, ServicioMusica.class) ;
                 stopService(intent) ;
                 break ;
-
+            case R.id.Perfil:
+                Intent intent4 = new Intent(MainActivity.this, PerfilActivity.class);
+                startActivity(intent4);
+                break;
 
 
             default :

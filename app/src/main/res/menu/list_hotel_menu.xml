@@ -24,4 +24,9 @@
         android:icon="@drawable/mute"
         />
 
+    <item
+        android:id="@+id/Perfil"
+        android:title="Perfil"
+        app:showAsAction="never" />
+
 </menu>

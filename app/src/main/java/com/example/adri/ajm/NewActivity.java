@@ -10,6 +10,7 @@ import android.os.Build;
 import android.support.v4.app.NotificationCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -36,8 +37,8 @@ public class NewActivity extends AppCompatActivity implements Observer {
     private NotificationChannel ch;
     private final String CHANNEL_NAME = "Notificaciones";
     private Uri uri;
-    String msg = "Hotel añadido";
-
+    String toast = "Hotel añadido con exito!";
+    private tObservable obs;
 
     private DatabaseReference databaseReference;
 
@@ -46,7 +47,8 @@ public class NewActivity extends AppCompatActivity implements Observer {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_new);
 
-
+        obs = new tObservable();
+        obs.addObserver(this);
         uri = Uri.parse(ContentResolver.SCHEME_ANDROID_RESOURCE + "://" + getPackageName() + "/" + R.raw.audio);
         boton = findViewById(R.id.boton);
         databaseReference = FirebaseDatabase.getInstance().getReference();
@@ -90,7 +92,7 @@ public class NewActivity extends AppCompatActivity implements Observer {
             Intent intent = new Intent(NewActivity.this, MainActivity.class) ;
             startActivity(intent) ;
 
-            Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
+            Toast.makeText(this, toast, Toast.LENGTH_LONG).show();
 
         });
 
@@ -135,7 +137,8 @@ public class NewActivity extends AppCompatActivity implements Observer {
 
     @Override
     public void update(Observable observable, Object o) {
-        Toast.makeText(this, msg, Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Hotel añadido correctamente!!", Toast.LENGTH_LONG).show();
+        Log.i("Observable", "Hotel añadido correctamente");
 
     }
 }
