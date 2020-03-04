@@ -23,57 +23,43 @@ Registraremos nuestro usuario en registro
 
 
 Y una vez dentro tendremos esta vista con el listado de los hoteles que forman parte de ella.
+Pulsando sobre los altavoces activaremos un servicio de la hermosa canción Hotel California, para ir a la par de la app.
 
 ![Aquí la descripción de la imagen por si no carga](
 https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a3.png)
 
-En la esquina derecha de arriba tenemos la opción de añadir hotel
+Arriba a la derecha tendremos un menu con diferentes opciones.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura5.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/menu.png
 
-En este formulario añadimos los datos del hotel
+En agregar nuevo hotel tendremos esta pantalla.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura6.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a4.png
 
-Y a continuación, vemos que nuestro hotel/posadas de españa ha sido añadido con exito
+Una vez lo hemos añadido nos saldra una notificacion de que fue añadido correctamente
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura7.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a5.png
 
-Si mantenemos pulsado encima de un hotel, nos aparecerán las siguientes opciones
+Si dejamos pulsado encima de un hotel nos saldra un menu contextual para borrar o ver informacion sobre el.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura8.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a6.png
 
-Nos aparecen sus caracteristicas principales.
+Si le damos a información nos saldra en pantalla un breve resumen del hote.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura9.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a7.png
 
-Si pulsamos en Mas información, nos aparecerán su telefono y dirección.
+Si le damos a mas informacion nos saldra mas detallada.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura10.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a8.png
 
-Si pulsamos en el telefono, nos aparecera marcado el numero para llamar directamente al hotel.
+Si le damos a telefono se nos marcara automaticamente en el telefono.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura11.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a9.png
 
-Y si pulsamos l aubicación se nos abrira la ubicacion con el google maps.
+Y si le damos a ubicación nos saldra en google maps como llegar
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura12.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a10.png
 
-Si en cambio, en vez de darle a información cuando pulsamos en un hotel, le damos a borrar, el hotel sera borrado correctamente
-como se ve, ya no esta las Posadas de España.
+Ahora veremos en el menu la opcion Perfil, donde veremos el nombre y los apellidos del usuario con el que estamos logueado.
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura13.png)
-
-Y si en la esquina le damos a cerrar sesión, sesión finalizada ;), volvemos al login.
-
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura14.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a11.png
