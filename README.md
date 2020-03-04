@@ -1,4 +1,4 @@
-Actualizacion** Agregada APK en la carpeta Release
+Actualizacion** Agregada APK en la carpeta App/Debug
 
 
 # Govatri-Hotel
