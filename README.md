@@ -21,13 +21,11 @@ Registraremos nuestro usuario en registro
 ![Aquí la descripción de la imagen por si no carga](https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a2.png)
 
 
-![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura3.png)
 
 Y una vez dentro tendremos esta vista con el listado de los hoteles que forman parte de ella.
 
 ![Aquí la descripción de la imagen por si no carga](
-https://github.com/AdrianJimenezMontilla/Govatri-Hotel/blob/master/imagenes/captura4.png)
+https://github.com/AdrianJimenezMontilla/Govatri-hotel-v2/blob/master/imagenes/a3.png)
 
 En la esquina derecha de arriba tenemos la opción de añadir hotel
 
